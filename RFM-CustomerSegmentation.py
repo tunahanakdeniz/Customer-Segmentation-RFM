@@ -105,7 +105,7 @@ Bu kategoride müşteri için alınacak ilk aksiyon "Cross-sell" ya da "Upper-se
 Müşteriye hitap eden ürünle beraber tamamlayıcı bir ürün ya da daha fazla verim alacağı bir üst ürün satışı gerçekleştirmek için pazarlama çalışmaları yapılmalıdır.
 Bu çalışmalar için ise ilgili ürün satışından sonra e-mail, sms ya da bildirim yoluyla cross/upper sell kategorisinde yer alan ürünler göz önünde tutulmalıdır.
 Bu %24.7'lik dilimin içerisinde yer alan bir diğer segment "At_Risk" segmentine bakıldığında 
-hem sık sık alışveriş yapmadığı ancak yapılan alışverin yüksek frekanslı olduğunu gözlemliyoruz. Bu tarz bir segment için öncelikli olarak müşteriyi 
+sık alışveriş yapmadığı ancak yapılan alışverin yüksek frekanslı olduğunu gözlemliyoruz. Bu tarz bir segment için öncelikli olarak müşteriyi 
 daha kısa periyotlarla alışverişe teşvik edebilecek aksiyonlar alınması önerilebilir.
 Bu aksiyonlara Potential Loyalist'lere uygulanan cross/upper sell methotları dahil olabileceği gibi, müşteriyle birebir iletişim ve indirim gibi 
 daha çekici pazarlama teknikleri düşünülebilir.
