@@ -1,5 +1,3 @@
-
-
 import datetime as dt
 import pandas as pd
 import seaborn as sns
@@ -16,7 +14,7 @@ df.head()
 
 df.describe().T
 
-#Veri setinde eksik gözlem var mı? Varsa hangi değişkende kaç tane eksik gözlem vardır
+#Veri setinde eksik gözlem var mı? Varsa hangi değişkende kaç tane eksik gözlem vardır?
 
 df.isnull().sum()
 
